@@ -3,7 +3,7 @@ Im a researcher interested in the effects of online platforms, climate change an
   
 I have worked as a research officer at the School of Politics and International Relations as a BI analyst for maritime logistics and financial services companies. I will be starting going to write my masters' thesis on the causes and catalysts of international crises in the next six mmonths. 
 
-This is an archive of my past and recent work.
+This is a gallery of my past and current work.
 
 
 ## Data science and OSINT investigations 
